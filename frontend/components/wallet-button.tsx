@@ -1,6 +1,6 @@
 "use client"
 
-import { useWallet } from "@/components/wallet-provider"
+import { useWallet } from "@/hooks/use-wallet"
 import { Button } from "@/components/ui/button"
 import { Avatar, AvatarFallback } from "@/components/ui/avatar"
 
